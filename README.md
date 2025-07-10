@@ -118,10 +118,7 @@ QuestCraft is licensed under the **MIT License**.
 
 ---
 
-## **Contact**
 
-* Email at [noumanpm@gmail.com](mailto:noumanpm@gmail.com).
-* GitHub Repository: [QuestCraft GitHub](https://github.com/Nouman-wp/Minecraft-pluging-BNB)
 * LinkedIn: [Linkedin Link](https://www.linkedin.com/in/mujeeb-nouman-31330a282/)
 
 
